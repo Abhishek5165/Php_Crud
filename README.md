@@ -14,4 +14,4 @@ Simple crud application using PHP & xamp & MYSQL.
 
 ![home](https://github.com/Abhishek5165/Php_Crud/blob/main/D1.png)
 
-![add-new-employee-form](https://github.com/mdtalalwasim/PHP-MySQL-CRUD-Operation-Employee-Management-CRUD/assets/91146041/f04bbda7-46aa-441c-9538-5d31c461fd39)
+![add-new-user](https://github.com/Abhishek5165/Php_Crud/blob/main/D2.png)
